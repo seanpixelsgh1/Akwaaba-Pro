@@ -1,0 +1,9 @@
+{
+  "short_name": "Akwaaba",
+  "name": "Akwaaba Sales Pro",
+  "icons": [{ "src": "https://cdn-icons-png.flaticon.com/512/3209/3209253.png", "sizes": "512x512", "type": "image/png" }],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#047857",
+  "background_color": "#ffffff"
+}
